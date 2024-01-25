@@ -1,5 +1,5 @@
 export const environment = {
   production: false,
   cookieExpiry: 60, ///in minutes
-  apiUrl: "https://nikeus-server.azurewebsites.net/api/",
+  apiUrl: "deploy url/api/",
 };
